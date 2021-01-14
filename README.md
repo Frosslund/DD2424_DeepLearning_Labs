@@ -8,7 +8,7 @@ Individual assignments from the course DD2424 at KTH. The assignments all focuse
 -   [NumPy](https://numpy.org/)
 -   [Matplotlib](https://matplotlib.org/)
 
-##Assignment Details
+## Assignment Details
 
 ### Assignment 1:
 
