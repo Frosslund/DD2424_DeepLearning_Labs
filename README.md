@@ -4,9 +4,9 @@ Individual assignments from the course DD2424 at KTH. The assignments all focuse
 
 ## Technologies
 
-[Python 3](https://www.python.org/)
-[NumPy](https://numpy.org/)
-[Matplotlib](https://matplotlib.org/)
+-   [Python 3](https://www.python.org/)
+-   [NumPy](https://numpy.org/)
+-   [Matplotlib](https://matplotlib.org/)
 
 ##Assignment Details
 
